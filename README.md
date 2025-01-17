@@ -21,12 +21,8 @@ This repository serves as a centralized platform for managing, analyzing, and vi
 - **Python**: Data cleaning and preprocessing.
 - **Power BI**: Visual analytics and dashboard creation.
 
-## Getting Started
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/yourusername/global-health-data-repository.git
-   ```
-2. Navigate to the project directory and explore the following key files:
+## Project Directory
+Navigate to the project directory and explore the following key files:
    - `data/`: Contains raw and cleaned datasets.
    - `report/`: Includes explanantion for dashboard.
    - `dashboards/`: Power BI dashboard files.
