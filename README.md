@@ -1,9 +1,5 @@
 # Health-Insights-Repository
 
-
-
-# Global Health Data Repository
-
 This repository serves as a centralized platform for managing, analyzing, and visualizing global health data. The project aims to support data-driven decision-making in public health by offering clean and insightful data representations.
 
 ## Project Overview
