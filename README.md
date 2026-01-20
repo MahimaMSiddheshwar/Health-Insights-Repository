@@ -1,4 +1,4 @@
-# Health-Insights-Repository
+# Health_Data_Analytics_Hub
 
 This repository serves as a centralized platform for managing, analyzing, and visualizing global health data. The project aims to support data-driven decision-making in public health by offering clean and insightful data representations.
 
@@ -17,16 +17,14 @@ This repository serves as a centralized platform for managing, analyzing, and vi
    - Created interactive and intuitive visualizations in Power BI.
    - Delivered dashboards for trends, patterns, and actionable insights.
 
-## Tools and Technologies
-- **Python**: Data cleaning and preprocessing.
-- **Power BI**: Visual analytics and dashboard creation.
+## Tech Stack
 
-## Project Directory
-Navigate to the project directory and explore the following key files:
-   - `data/`: Contains raw and cleaned datasets.
-   - `report/`: Includes explanantion for dashboard.
-   - `dashboards/`: Power BI dashboard files.
-
+- **Programming & Data Processing:** Python  
+- **Data Analysis & Cleaning:** Pandas, NumPy  
+- **Visualization & Dashboards:** Power BI  
+- **Environment:** Jupyter Notebook / Local Python Environment
+- 
+---
 
 ## Acknowledgments
-This project was developed as part of a research initiative to create a robust global health data repository. Special thanks to contributors for their efforts in data management and visualization.
+This project was developed as part of a research initiative to create a robust global health data repository. 
