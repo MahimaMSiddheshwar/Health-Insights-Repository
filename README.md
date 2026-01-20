@@ -1,6 +1,6 @@
 # Health_Data_Analytics_Hub
 
-This repository serves as a centralized platform for managing, analyzing, and visualizing global health data. The project aims to support data-driven decision-making in public health by offering clean and insightful data representations.
+This repository serves as a practice workspace for learning how to clean, analyze, and visualize public health datasets. The project emphasizes hands-on exploration of data and building meaningful visual summaries.
 
 ## Project Overview
 
